@@ -9,6 +9,9 @@ I provide several different formats of my answer. **You only need to read one of
 • nbviewer: [Click here](https://nbviewer.jupyter.org/github/eraraya-ricardo/qosf-screening_task/blob/master/Eraraya%20Ricardo%20Muten_QOSF%20QC%20Mentorship%20Program_Task%202.ipynb) <br>
 **Note: The HTML version can't be open in GitHub as the size is too large (only 1.2 MB though), please download it and open it with your browser.**
 
-Even though they are same, but **I prefer my application to be judged based-on the nbviewer version** as it is cleaner and probably will have less issue in compatibility or rendering. I also put the versions of all dependencies inside. 
+Even though they are same, but **I prefer my application to be judged based-on the nbviewer version** as it is cleaner and probably will have less issue in compatibility or rendering. If you want to run the code locally, you need an IBM Quantum Experience account and save the token in your device ([see here for the documentation](https://qiskit.org/documentation/stubs/qiskit.providers.ibmq.IBMQFactory.save_account.html)).
+
+By the way, I forgot to mention this in the application form: <br>
+Even though I applied without a team, it doesn't mean I don't want to work in a team. I am willing to work either in a team or individually. If I were to be chosen for this program, I believe in QOSF judgment to make the decision whether to put me in a new team, in an existing team, or without a team.
 
 Thanks a lot!
