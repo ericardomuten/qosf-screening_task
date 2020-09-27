@@ -7,6 +7,7 @@ I provide two different alternatives of my answer. **You only need to read one o
 • Jupyter Notebook: Eraraya Ricardo Muten_QOSF QC Mentorship Program_Task 2.ipynb <br>
 • nbviewer:  <br>
 • Binder: [click here](https://hub.gke1.mybinder.org/user/eraraya-ricardo--screening_task-asa6odbv/notebooks/Task%202.ipynb)
+• Google Colab: [Click here](https://drive.google.com/file/d/11xW9GRtnVs6uSqMjTu6FlOBhyVaZJvgC/view?usp=sharing)
 
 Even though they are the same, but **I preferred my application to be judged based-on the nbviewer or Binder version** as it is cleaner and probably will have less issue in compatibility or rendering (the markdowns often fail for the Jupyter Notebook when open inside GitHub). If you want to run the code locally, you need an IBM Quantum Experience account and save the token in your device ([see here for the documentation](https://qiskit.org/documentation/stubs/qiskit.providers.ibmq.IBMQFactory.save_account.html)).
 
